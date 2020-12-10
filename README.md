@@ -1,5 +1,8 @@
 # dHCP surface atlas, 10/12/2020
 
+![week 28, pial surface, myelin map](images/week28-pial-myelin.png "week 28,
+pial, myelin")
+
 This surface atlas was prepared by this software:
 
 https://github.com/jcupitt/SurfaceAtlasConstruction/tree/revise-scripts
